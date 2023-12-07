@@ -1,0 +1,23 @@
+html {
+  background-color: rgb(64 64 64);
+  background-image: url(https://images.pexels.com/photos/733767/pexels-photo-733767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
+
+
+
+header h1{
+  font-family: 'Ephesis', cursive;
+}
+
+
+
+
+body {
+  color: rgb(255 251 235);
+
+
+ 
+  font-size: 20px;
+  font-style: oblique;
+}
